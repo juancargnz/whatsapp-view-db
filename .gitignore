@@ -1,0 +1,5 @@
+msgstore.db
+*.db
+*.key
+extracted/
+__pycache__/
